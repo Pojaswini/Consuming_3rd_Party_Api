@@ -1,0 +1,10 @@
+body{
+  color: white;
+  background: red;
+  text-align: center;
+}
+h1{
+  text-align: center;
+  border-bottom: 1px solid yellow;
+  padding-bottom: 10px;
+}
